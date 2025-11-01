@@ -1,5 +1,5 @@
 # Yoo Halo.... Gweh Kushuri12
-(./a5e6aecc8bf2d4a8aee952eaae7312df.jpg)
+[stres error](./a5e6aecc8bf2d4a8aee952eaae7312df.jpg)
 
 # Yang Gweh Bisa:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
