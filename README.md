@@ -1,5 +1,5 @@
 # Yoo Halo.... Gweh Kushuri12
-[stres error](https://github.com/kushuri12/kushuri12/blob/7a34651120feeed15d3fca7e9b4e35953e1b4047/profile.jpg)
+![stres error](https://github.com/kushuri12/kushuri12/blob/7a34651120feeed15d3fca7e9b4e35953e1b4047/profile.jpg)
 
 # Yang Gweh Bisa:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
